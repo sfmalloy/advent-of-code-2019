@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for i in {1..15}
+for i in {1..17}
 do
   printf "Day$i\n"
   if [ $i -lt 10 ]
@@ -9,7 +9,7 @@ do
   else
     cd Day$i/
   fi
-  python $i.py
+  python3 $i.py
   cd ..
   printf "\n"
 done
