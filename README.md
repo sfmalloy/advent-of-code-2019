@@ -1,3 +1,6 @@
+**NOTE:** This repository is now archived. Please use [my solutions monorepo](https://github.com/sfmalloy/advent-of-code) to find any future changes.
+___
+
 # Advent of Code 2019
 ## Using Python 3.10
 
